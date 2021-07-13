@@ -1,0 +1,65 @@
+html,body{
+    height: 100%;
+    font-size: 1rem;
+}
+
+.bg-colour{
+    background: rgb(2,0,36);
+    background: linear-gradient(168deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 65%, rgba(0,212,255,1) 100%);
+}
+
+.page-header{  
+    margin-top: 4rem;
+    padding-top: 6rem;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.judges{
+    color: white;
+}
+
+.judges-item{
+    width: 55%;
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 70px;
+    color: black;
+}
+
+.judges-item img{
+    height: 10rem;
+    margin: 2rem;
+}
+
+.modal-body p,h4{
+    color: black;
+}
+
+.contact-item h4, .contact-item h5, .contact-item a{
+    color: white;
+    text-decoration: none;
+}
+
+.login-page{
+    height: 100vh;
+}
+
+.login-container{
+    padding-top: 5rem;
+}
+
+.register-text a{
+    text-decoration: none;
+}
+
+.btn-submit{
+    width: 100%;
+    border-radius: 40px;
+}
+
+.forgot-password p{
+    color: blue;
+    cursor: pointer;
+}
